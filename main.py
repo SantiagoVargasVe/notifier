@@ -42,7 +42,7 @@ if __name__ == "__main__":
     animeDict=createDict()
     while True:
         checkNew(animeDict)
-        time.sleep(60)
+        time.sleep(50)
         print('repito')
         
 
